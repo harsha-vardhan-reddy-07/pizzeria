@@ -1,1 +1,1 @@
-view the hosted webapp at www.reactpizzeria.web.app 
+view the hosted webapp at https://www.reactpizzeria.web.app 
